@@ -1,16 +1,4 @@
 *.pdf
 *.docx
-"Module 02\SimpleMessages\screenshot01.png"
-"Module 02\SimpleMessages\screenshot02.png"
-"Module 02\SimpleMessages\2-2. Simple Messages.docx"
-"Module 02\NameCases\NameCases.zip"
-"Module 02\NameCases\2-4. Name Cases.docx"
-"Module 02\NameCases\screenshot.png"
-"Module 02\FamousQuote\screenshot.png"
-"Module 02\NumberEight\2-8. Number 8.docx"
-"Module 02\NumberEight\screenshot.png"
-"Module 02\NumberEight\NumberEight.zip"
-"Module 04\4-2. Animals\4-2. Animals.zip"
-"Module 04\4-8. Cubes\4-8. Cubes.zip"
-"Module 04\4-10. Slices\4-10. Slices.zip"
-"Module 04\4-15. Code Review\4-15. Code Review.zip"
+*.png
+*.zip
