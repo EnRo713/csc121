@@ -5,9 +5,9 @@ favorite_places = {
     'Carmen': ['Fiji', 'Rio de Janeiro, Brazil', 'Bali, Indonesia']
 }
 
-# Loop through the dictionary and print each person's name and their favorite places
+# Loop through dictionary, print each person's name and favorite places
 for person, places in favorite_places.items():
     print(person + "'s favorite places are:")
     for place in places:
         print("• " + place)
-    print()  # Print an empty line for readability
+    print()  # Print empty line for readability
