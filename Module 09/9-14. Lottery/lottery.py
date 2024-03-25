@@ -17,10 +17,12 @@ for i in range(4):
     user_numbers.append(user_input)
 user_letter = input("Enter a letter (A-E): ").upper()
 
+# Display winning lottery numbers
+print(f"The winning numbers are: {lottery_numbers}")
+print(f"The winning letter is: {lottery_letter}")
+
 # Compare the user's input to the lottery number
 if user_numbers == lottery_numbers and user_letter == lottery_letter:
     print("Congratulations! You're the winner!")
 else:
     print("Sorry, better luck next time!")
-    print(f"The winning numbers are: {lottery_numbers}")
-    print(f"The winning letter is: {lottery_letter}")
