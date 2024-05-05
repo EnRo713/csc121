@@ -1,7 +1,7 @@
 # Final Project
 ## Alien Invasion Game
 
-Alien Invasion game from the Python Crash Course 3rd ed. book
+Alien Invasion game from the Python Crash Course 3rd Ed. book
 
 (screenshots/screen01.png "Alien Invasion")
 
