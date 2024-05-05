@@ -3,7 +3,7 @@
 
 Alien Invasion game from the Python Crash Course 3rd Ed. book
 
-!(screenshots/screen01.png)
+![screenshots/screen01.png](https://github.com/EnRo713/csc121/blob/main/Final%20Project/alien_invasion/screenshots/screen01.png)
 
 ## Installation
 
