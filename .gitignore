@@ -3,4 +3,5 @@
 *.png
 *.zip
 *.txt
+*.pyc
 !Final Project/alien_invasion/screenshots/screen01.png
